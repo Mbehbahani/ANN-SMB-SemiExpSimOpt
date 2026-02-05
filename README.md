@@ -12,6 +12,8 @@
 
 MATLAB implementation of the **ANN-Semi-Metamodel-Based (ANN-SMB) algorithm** for semi-expensive simulation optimization. Compares ANN and Kriging metamodels in a two-phase framework for simulations taking 2–5 minutes per replication.
 
+**New to simulation optimization?** See [Introduction to Inventory Simulation Optimization](https://www.oploy.eu/inventory-simulation-optimization/) for context.
+
 ### Key Innovation
 
 **Two-phase approach** solving the model-based vs. metamodel-based dilemma:
