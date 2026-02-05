@@ -1,5 +1,7 @@
 <img src="header.png" alt="Header" width="600"/>
 
+<h2 style="text-align:center; font-size:1.8em;">Download the Full Article: <a href="FilePdf.pdf">Click Here</a></h2>
+
 # Artificial Neural Network Metamodel for Semi-Expensive Simulation Optimization
 
 **A Comparative Study of ANN vs. Kriging Metamodels**
@@ -121,6 +123,12 @@ Leave-one-out cross-validation with studentized prediction error
 ```
 
 **DOI**: https://doi.org/10.71720/joie.2025.1183309
+
+---
+
+## Download Article
+
+You can download the full article [here](FilePdf.pdf).
 
 ---
 
