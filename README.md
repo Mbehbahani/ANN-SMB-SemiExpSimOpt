@@ -4,7 +4,7 @@
 
 # Artificial Neural Network Metamodel for Semi-Expensive Simulation Optimization
 
-**A Comparative Study of ANN vs. Kriging Metamodels**
+MATLAB simulation-optimisation research comparing neural-network and Kriging metamodels for analytical benchmarks and inventory control.
 
 > This repository contains the code and supplementary materials for an article developed as part of a Master's thesis (completed in 2018). The manuscript was accepted and published in 2025 following an extended editorial and publication process.
 
@@ -105,8 +105,6 @@ Leave-one-out cross-validation with studentized prediction error
 
 **Benefits**: 
 - 5–10% fewer function evaluations
-- Same-shift vs. overnight optimization
-- Compatible with Arena, AnyLogic, Simio
 
 ---
 
@@ -116,7 +114,7 @@ Leave-one-out cross-validation with studentized prediction error
 @article{Behbahani2025,
   author = {Mohammad Behbahani and Seyed Taghi Akhavan Niaki and Mehran Moazeni},
   title = {An artificial neural network metamodel to solve semi-expensive simulation optimization problems: A comparative study},
-  journal = {Journal of Industrial Engineering},
+  journal = {Journal of Optimization in Industrial Engineering},
   doi = {10.71720/joie.2025.1183309},
   year = {2025}
 }
@@ -137,7 +135,6 @@ You can download the full article [here](FilePdf.pdf).
 - Statistically equivalent solution quality (p = 0.913)
 - ANN-SMB superior on 4/5 test functions
 - 5–10% reduction in function evaluations
-- Real-world speedup: overnight to same-shift optimization
 
 ---
 
@@ -151,6 +148,6 @@ You can download the full article [here](FilePdf.pdf).
 
 
 
-**Last Updated**: February 2026  
+**Last updated**: October 2026  
 **License**: Academic Use (See paper for full terms)  
 **Status**: Published
